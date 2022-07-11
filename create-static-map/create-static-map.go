@@ -12,11 +12,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/flopp/go-coordsparser"
-	sm "github.com/flopp/go-staticmaps"
 	"github.com/fogleman/gg"
 	"github.com/golang/geo/s2"
-	"github.com/jessevdk/go-flags"
+	sm "github.com/offsite-solutions/go-staticmaps"
 )
 
 func handleTypeOption(ctx *sm.Context, parameter string) {
