@@ -1,4 +1,4 @@
-module github.com/flopp/go-staticmaps
+module github.com/offsite-solutions/go-staticmaps
 
 go 1.16
 
